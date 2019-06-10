@@ -6,7 +6,7 @@
 [![Node Engine](https://badgen.now.sh/npm/node/@keeveestore/toml)](https://www.npmjs.com/package/@keeveestore/toml)
 [![Build Status](https://badgen.now.sh/circleci/github/keeveestore/toml)](https://circleci.com/gh/keeveestore/toml)
 [![Codecov](https://badgen.now.sh/codecov/c/github/keeveestore/toml)](https://codecov.io/gh/keeveestore/toml)
-[![License: MPL-2.0](https://badgen.now.sh/badge/license/MPL-2.0/green)](https://mozilla.org/MPL/2.0/)
+[![License: MPL-2.0](https://badgen.now.sh/badge/license/MPL-2.0/green)](https://mozilla.org/MPL/2.0/) [![Greenkeeper badge](https://badges.greenkeeper.io/keeveestore/toml.svg)](https://greenkeeper.io/)
 
 ## Installation
 
