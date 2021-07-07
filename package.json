@@ -33,7 +33,7 @@
 	"devDependencies": {
 		"@konceiver/kv-test-suite": "^1.0.0",
 		"@konceiver/tease": "^2.0.1",
-		"@types/fs-extra": "^9.0.11"
+		"@types/fs-extra": "^9.0.12"
 	},
 	"types": "dist/index"
 }
